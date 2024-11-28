@@ -1,0 +1,561 @@
+﻿WORD,VALIDITY,TYPE,BLOCK
+today,word,english,A
+seems,word,english,A
+means,word,english,A
+lower,word,english,A
+store,word,english,A
+excellent,word,english,A
+likely,word,english,A
+together,word,english,A
+order,word,english,A
+while,word,english,A
+study,word,english,A
+happen,word,english,A
+difficult,word,english,A
+required,word,english,A
+should,word,english,A
+allowed,word,english,A
+having,word,english,A
+various,word,english,A
+agree,word,english,A
+service,word,english,A
+table,word,english,A
+cannot,word,english,A
+better,word,english,A
+appears,word,english,A
+members,word,english,A
+respond,word,english,A
+client,word,english,A
+sometimes,word,english,A
+quite,word,english,A
+artifact,word,english,A
+analysis,word,english,A
+working,word,english,A
+makes,word,english,A
+trouble,word,english,A
+doubt,word,english,A
+leave,word,english,A
+shows,word,english,A
+political,word,english,A
+support,word,english,A
+early,word,english,A
+frint,non_word,english,A
+cantract,non_word,english,A
+maneger,non_word,english,A
+contrel,non_word,english,A
+cowntry,non_word,english,A
+presune,non_word,english,A
+laern,non_word,english,A
+wice,non_word,english,A
+hindig,non_word,english,A
+istelf,non_word,english,A
+tuday,non_word,english,A
+creat,non_word,english,A
+chlone,non_word,english,A
+thiking,non_word,english,A
+studnet,non_word,english,A
+cald,non_word,english,A
+articels,non_word,english,A
+slory,non_word,english,A
+argee,non_word,english,A
+reweise,non_word,english,A
+parrut,non_word,english,A
+sland,non_word,english,A
+prorame,non_word,english,A
+allawed,non_word,english,A
+nohice,non_word,english,A
+minusts,non_word,english,A
+pover,non_word,english,A
+feredal,non_word,english,A
+anydoby,non_word,english,A
+writen,non_word,english,A
+weater,non_word,english,A
+atempt,non_word,english,A
+quikly,non_word,english,A
+teath,non_word,english,A
+annyway,non_word,english,A
+fount,non_word,english,A
+resources,non_word,english,A
+chlidren,non_word,english,A
+ordar,non_word,english,A
+requierd,non_word,english,A
+अक्सर ,word,hindi,B
+अगस्त ,word,hindi,B
+अतिक्रमण ,word,hindi,B
+अथवा ,word,hindi,B
+अदालत ,word,hindi,B
+अध्यक्ष ,word,hindi,B
+अनंत ,word,hindi,B
+अन्य ,word,hindi,B
+अपहरण ,word,hindi,B
+अफसर ,word,hindi,B
+अवश्य ,word,hindi,B
+अवसर ,word,hindi,B
+अव्वल ,word,hindi,B
+अहम ,word,hindi,B
+आकलन ,word,hindi,B
+आदत ,word,hindi,B
+आमरण ,word,hindi,B
+आवश्यक ,word,hindi,B
+इसपर ,word,hindi,B
+उक्त ,word,hindi,B
+उच्च ,word,hindi,B
+उठकर ,word,hindi,B
+उतर ,word,hindi,B
+उतरकर ,word,hindi,B
+उत्पन्न ,word,hindi,B
+उपज ,word,hindi,B
+उपलक्ष्य ,word,hindi,B
+उपलब्ध ,word,hindi,B
+उलझ ,word,hindi,B
+कमर ,word,hindi,B
+कलम ,word,hindi,B
+कलह ,word,hindi,B
+कार्यालय ,word,hindi,B
+खत्म ,word,hindi,B
+गरीबी ,word,hindi,B
+गहन ,word,hindi,B
+गुलशन ,word,hindi,B
+गौरतलब ,word,hindi,B
+चयन ,word,hindi,B
+चरण ,word,hindi,B
+अंदेरे,non_word,hindi,B
+अक्क्षण,non_word,hindi,B
+अक्शर,non_word,hindi,B
+अक्‍सार,non_word,hindi,B
+अखवर,non_word,hindi,B
+अच्ल,non_word,hindi,B
+अटवर,non_word,hindi,B
+अतिकरमण,non_word,hindi,B
+अदलात,non_word,hindi,B
+अध्यक्षर,non_word,hindi,B
+अनशनर,non_word,hindi,B
+अनेख,non_word,hindi,B
+अन्कय,non_word,hindi,B
+अन्क्षण,non_word,hindi,B
+अन्टय,non_word,hindi,B
+अन्द,non_word,hindi,B
+अपगत,non_word,hindi,B
+अपव,non_word,hindi,B
+अमरल,non_word,hindi,B
+अमिल,non_word,hindi,B
+अरम्भ,non_word,hindi,B
+अल्क्षण,non_word,hindi,B
+अल्य,non_word,hindi,B
+अवगतन,non_word,hindi,B
+अवाव,non_word,hindi,B
+अवैल,non_word,hindi,B
+अशल,non_word,hindi,B
+अस्षर,non_word,hindi,B
+आंकेडा,non_word,hindi,B
+आघमन,non_word,hindi,B
+आडर,non_word,hindi,B
+आतकवाद,non_word,hindi,B
+आत्मल,non_word,hindi,B
+आदमि,non_word,hindi,B
+आदमे,non_word,hindi,B
+आदस,non_word,hindi,B
+आपणी,non_word,hindi,B
+आपसव,non_word,hindi,B
+आरकण,non_word,hindi,B
+आरकल,non_word,hindi,B
+reatily,non_word,english,C
+evedence,non_word,english,C
+exatly,non_word,english,C
+parrts,non_word,english,C
+atention,non_word,english,C
+wotch,non_word,english,C
+thouh,non_word,english,C
+monthh,non_word,english,C
+poast,non_word,english,C
+macine,non_word,english,C
+komment,non_word,english,C
+driwer,non_word,english,C
+saing,non_word,english,C
+opinyons,non_word,english,C
+miself,non_word,english,C
+respend,non_word,english,C
+feild,non_word,english,C
+leve,non_word,english,C
+rhows,non_word,english,C
+exellant,non_word,english,C
+efect,non_word,english,C
+forse,non_word,english,C
+anasylis,non_word,english,C
+litsts,non_word,english,C
+togehter,non_word,english,C
+secutiry,non_word,english,C
+aparment,non_word,english,C
+learly,non_word,english,C
+bluud,non_word,english,C
+screan,non_word,english,C
+makis,non_word,english,C
+referance,non_word,english,C
+histury,non_word,english,C
+aucton,non_word,english,C
+setwene,non_word,english,C
+perfet,non_word,english,C
+trate,non_word,english,C
+takling,non_word,english,C
+cemidal,non_word,english,C
+commuty,non_word,english,C
+driver,word,english,C
+truth,word,english,C
+talking,word,english,C
+received,word,english,C
+needed,word,english,C
+evidence,word,english,C
+medical,word,english,C
+along,word,english,C
+house,word,english,C
+trying,word,english,C
+field,word,english,C
+address,word,english,C
+average,word,english,C
+following,word,english,C
+weeks,word,english,C
+water,word,english,C
+attention,word,english,C
+community,word,english,C
+country,word,english,C
+names,word,english,C
+become,word,english,C
+receive,word,english,C
+write,word,english,C
+speak,word,english,C
+quickly,word,english,C
+living,word,english,C
+locus,word,english,C
+consider,word,english,C
+children,word,english,C
+death,word,english,C
+material,word,english,C
+perhaps,word,english,C
+power,word,english,C
+music,word,english,C
+security,word,english,C
+response,word,english,C
+pages,word,english,C
+press,word,english,C
+myself,word,english,C
+physical,word,english,C
+भड़कन,non_word,hindi,C
+थप्पल,non_word,hindi,C
+तलबल,non_word,hindi,C
+प्रतिधिन,non_word,hindi,C
+पदकम,non_word,hindi,C
+दहकत,non_word,hindi,C
+तत्य,non_word,hindi,C
+दस्तकन,non_word,hindi,C
+बर्बाधी,non_word,hindi,C
+भाँचारा,non_word,hindi,C
+पलकल,non_word,hindi,C
+नगड़,non_word,hindi,C
+फ्वल,non_word,hindi,C
+ठप्पर,non_word,hindi,C
+मंजुर,non_word,hindi,C
+पहलै,non_word,hindi,C
+झख्म,non_word,hindi,C
+बजल,non_word,hindi,C
+भतीक,non_word,hindi,C
+नायरी,non_word,hindi,C
+ढक्कल,non_word,hindi,C
+झलकन,non_word,hindi,C
+नफदत,non_word,hindi,C
+प्रमुश,non_word,hindi,C
+प्ठन,non_word,hindi,C
+भगतम,non_word,hindi,C
+नहन,non_word,hindi,C
+महागनर,non_word,hindi,C
+मधुपब,non_word,hindi,C
+दण्ट,non_word,hindi,C
+दस्थक,non_word,hindi,C
+निबंठ,non_word,hindi,C
+नसीत,non_word,hindi,C
+नमकल,non_word,hindi,C
+दन्ष,non_word,hindi,C
+ज्वल,non_word,hindi,C
+परिजिन,non_word,hindi,C
+धेज,non_word,hindi,C
+नतमस्क,non_word,hindi,C
+बनक,non_word,hindi,C
+नयन ,word,hindi,C
+खोकर ,word,hindi,C
+अल्प ,word,hindi,C
+रक्षक ,word,hindi,C
+अवधेश ,word,hindi,C
+महीना ,word,hindi,C
+सहन ,word,hindi,C
+दण्ड ,word,hindi,C
+गवाही ,word,hindi,C
+शरारती ,word,hindi,C
+ऊंचाई ,word,hindi,C
+वचनबद्ध ,word,hindi,C
+साजिश ,word,hindi,C
+महक ,word,hindi,C
+पठन ,word,hindi,C
+बहस ,word,hindi,C
+दशक ,word,hindi,C
+आगमन ,word,hindi,C
+भक्तजन ,word,hindi,C
+असत्य ,word,hindi,C
+आयकर ,word,hindi,C
+एकत्र ,word,hindi,C
+आवारा ,word,hindi,C
+आर्थिक ,word,hindi,C
+सहायता ,word,hindi,C
+अवगत ,word,hindi,C
+वयस्क ,word,hindi,C
+हड़कम्प ,word,hindi,C
+अपशब्द ,word,hindi,C
+समक्ष ,word,hindi,C
+असभ्य ,word,hindi,C
+सहमत ,word,hindi,C
+कसर ,word,hindi,C
+सभ्य ,word,hindi,C
+मस्तक ,word,hindi,C
+सहज ,word,hindi,C
+किनारे ,word,hindi,C
+प्रहार ,word,hindi,C
+उसपर ,word,hindi,C
+छप्पन ,word,hindi,C
+prashim,non_word,hinglish,D
+anuhab,non_word,hinglish,D
+vakta,non_word,hinglish,D
+aapasav,non_word,hinglish,D
+ujjala,non_word,hinglish,D
+saadham,non_word,hinglish,D
+kamad,non_word,hinglish,D
+ugar,non_word,hinglish,D
+gamri,non_word,hinglish,D
+vimeet,non_word,hinglish,D
+jajah,non_word,hinglish,D
+khatvir,non_word,hinglish,D
+saht,non_word,hinglish,D
+maskad,non_word,hinglish,D
+sajag,non_word,hinglish,D
+salaf,non_word,hinglish,D
+ummat,non_word,hinglish,D
+kharbar,non_word,hinglish,D
+kasan,non_word,hinglish,D
+iradh,non_word,hinglish,D
+sanay,non_word,hinglish,D
+tanrik,non_word,hinglish,D
+aranth,non_word,hinglish,D
+gagah,non_word,hinglish,D
+vitichra,non_word,hinglish,D
+kapak,non_word,hinglish,D
+yavaska,non_word,hinglish,D
+askhay,non_word,hinglish,D
+anam,non_word,hinglish,D
+kustap,non_word,hinglish,D
+ukathar,non_word,hinglish,D
+saskham,non_word,hinglish,D
+jalnat,non_word,hinglish,D
+dhyam,non_word,hinglish,D
+majtoobi,non_word,hinglish,D
+goyak,non_word,hinglish,D
+hafan,non_word,hinglish,D
+sarakh,non_word,hinglish,D
+pyahi,non_word,hinglish,D
+hatkan,non_word,hinglish,D
+chadar,word,hinglish,D
+naram,word,hinglish,D
+pathak,word,hinglish,D
+pavan  ,word,hinglish,D
+kambal,word,hinglish,D
+vivaah,word,hinglish,D
+safal  ,word,hinglish,D
+shahar,word,hinglish,D
+adaalat,word,hinglish,D
+sharab,word,hinglish,D
+doosra,word,hinglish,D
+ dhanya,word,hinglish,D
+mahila,word,hinglish,D
+virodhi,word,hinglish,D
+bhavan  ,word,hinglish,D
+asar,word,hinglish,D
+yagya  ,word,hinglish,D
+uday,word,hinglish,D
+shakkar,word,hinglish,D
+andar,word,hinglish,D
+sambhav,word,hinglish,D
+jhalak  ,word,hinglish,D
+thappar,word,hinglish,D
+mannat,word,hinglish,D
+alag,word,hinglish,D
+pakad,word,hinglish,D
+asatya,word,hinglish,D
+ uplabdh,word,hinglish,D
+asabhya,word,hinglish,D
+akshay,word,hinglish,D
+aarambh,word,hinglish,D
+bhakt,word,hinglish,D
+vichaar,word,hinglish,D
+mahaul,word,hinglish,D
+prabhat,word,hinglish,D
+pradesh,word,hinglish,D
+dawaai,word,hinglish,D
+safar  ,word,hinglish,D
+saksham  ,word,hinglish,D
+ anya,word,hinglish,D
+except,word,english,E
+student,word,english,E
+knowledge,word,english,E
+contains,word,english,E
+point,word,english,E
+auction,word,english,E
+strong,word,english,E
+course,word,english,E
+state,word,english,E
+create,word,english,E
+command,word,english,E
+instead,word,english,E
+opinions,word,english,E
+always,word,english,E
+guess,word,english,E
+obviously,word,english,E
+items,word,english,E
+available,word,english,E
+shipping,word,english,E
+called,word,english,E
+certain,word,english,E
+contract,word,english,E
+trade,word,english,E
+second,word,english,E
+report,word,english,E
+white,word,english,E
+under,word,english,E
+parts,word,english,E
+using,word,english,E
+includes,word,english,E
+central,word,english,E
+sources,word,english,E
+features,word,english,E
+reality,word,english,E
+added,word,english,E
+details,word,english,E
+whole,word,english,E
+reference,word,english,E
+change,word,english,E
+education,word,english,E
+skillis,non_word,english,E
+digetal,non_word,english,E
+wheter,non_word,english,E
+brimg,non_word,english,E
+reciese,non_word,english,E
+litimed,non_word,english,E
+interfase,non_word,english,E
+celtainly,non_word,english,E
+beccome,non_word,english,E
+lelal,non_word,english,E
+laterr,non_word,english,E
+purhaps,non_word,english,E
+obsiouly,non_word,english,E
+genurally,non_word,english,E
+shigging,non_word,english,E
+troubal,non_word,english,E
+availble,non_word,english,E
+blakc,non_word,english,E
+slong,non_word,english,E
+geves,non_word,english,E
+adress,non_word,english,E
+pagis,non_word,english,E
+starded,non_word,english,E
+coming,non_word,english,E
+tebbar,non_word,english,E
+recieved,non_word,english,E
+undersand,non_word,english,E
+smille,non_word,english,E
+exampel,non_word,english,E
+guass,non_word,english,E
+luks,non_word,english,E
+nown,non_word,english,E
+sens,non_word,english,E
+sorces,non_word,english,E
+diferent,non_word,english,E
+wile,non_word,english,E
+outcide,non_word,english,E
+parudy,non_word,english,E
+naturul,non_word,english,E
+vursion,non_word,english,E
+panka,non_word,hinglish,E
+hivaah,non_word,hinglish,E
+gatat,non_word,hinglish,E
+vashtrik,non_word,hinglish,E
+pratagi,non_word,hinglish,E
+maskat,non_word,hinglish,E
+jaavnar,non_word,hinglish,E
+anraya,non_word,hinglish,E
+katsha,non_word,hinglish,E
+hisarat,non_word,hinglish,E
+madhrak,non_word,hinglish,E
+katrika,non_word,hinglish,E
+ucchar,non_word,hinglish,E
+hanav,non_word,hinglish,E
+drishdhi,non_word,hinglish,E
+yajya,non_word,hinglish,E
+saajash,non_word,hinglish,E
+raskha,non_word,hinglish,E
+gamar,non_word,hinglish,E
+sajjam,non_word,hinglish,E
+bapchan,non_word,hinglish,E
+nakam,non_word,hinglish,E
+labhka,non_word,hinglish,E
+panav,non_word,hinglish,E
+pratrikik,non_word,hinglish,E
+tamnay,non_word,hinglish,E
+hrudai,non_word,hinglish,E
+saadish,non_word,hinglish,E
+galak,non_word,hinglish,E
+khashar,non_word,hinglish,E
+praghash,non_word,hinglish,E
+lakshal,non_word,hinglish,E
+banthak,non_word,hinglish,E
+saklam,non_word,hinglish,E
+haatal,non_word,hinglish,E
+sanudaay,non_word,hinglish,E
+ashkar,non_word,hinglish,E
+shatki,non_word,hinglish,E
+vikapsh,non_word,hinglish,E
+dhyam,non_word,hinglish,E
+gulshan,word,hinglish,E
+akshar  ,word,hinglish,E
+sangeet,word,hinglish,E
+sambhav,word,hinglish,E
+bhajan  ,word,hinglish,E
+sargam,word,hinglish,E
+ tanmay,word,hinglish,E
+kadam  ,word,hinglish,E
+shaadi,word,hinglish,E
+ sakht,word,hinglish,E
+dhanya,word,hinglish,E
+chamak,word,hinglish,E
+pasand,word,hinglish,E
+sabak,word,hinglish,E
+ bandhak,word,hinglish,E
+ daftar,word,hinglish,E
+kahar,word,hinglish,E
+ bacchan,word,hinglish,E
+nayak,word,hinglish,E
+galti,word,hinglish,E
+paani,word,hinglish,E
+ladka,word,hinglish,E
+sadak  ,word,hinglish,E
+jannat,word,hinglish,E
+idhar  ,word,hinglish,E
+pasand,word,hinglish,E
+videshi,word,hinglish,E
+ bhakt,word,hinglish,E
+chakkar,word,hinglish,E
+parivaar,word,hinglish,E
+vikalp,word,hinglish,E
+ bandhan,word,hinglish,E
+akhand,word,hinglish,E
+asafal,word,hinglish,E
+taras,word,hinglish,E
+ madhya,word,hinglish,E
+adhoori  ,word,hinglish,E
+nigan,word,hinglish,E
+tanmay,word,hinglish,E
+dainik,word,hinglish,E

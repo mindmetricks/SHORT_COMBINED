@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Language Switching Experiment</title>
+
+  <!-- Load jsPsych -->
+  <script src="jspsych/jspsych.js"></script>
+  <script src="jspsych/plugin-html-keyboard-response.js"></script>
+  <script src="jspsych/plugin-survey-html-form.js"></script> <!-- For the demographics form -->
+  <script src="jspsych/plugin-instructions.js"></script>
+  <link rel="stylesheet" href="jspsych/jspsych.css">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+
+  <style>
+    body {
+      font-size: 24px;
+      padding-top: 50px; /* Add margin at the top for the instruction */
+    }
+    #jspsych-target {
+      font-size: 24px;
+    }
+    h1, h2, h3, p {
+      font-size: 24px;
+    }
+    .jspsych-content {
+      font-size: 25px;
+      text-align: center;
+    }
+
+    /* Style for the instruction at the top */
+    #instruction {
+      font-size: 20px;
+      text-align: center;
+      position: fixed;
+      top: 10px; /* Positioned 10px from the top of the screen */
+      left: 0;
+      width: 100%;
+      padding: 10px 0;
+      background-color: rgba(255, 255, 255, 0.8); /* Light background */
+      border-bottom: 2px solid #000;
+      z-index: 100; /* Ensure it is always on top */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Instruction at the top -->
+  <div id="instruction">
+     "f" : valid _and_ "j" : invalid
+  </div>
+
+  <div id="jspsych-target"></div>
+  
+  <script>
+    // Initialize jsPsych
+    const jsPsych = initJsPsych({
+      on_finish: function() {
+          saveData();
+      }
+    });
+
+    // Function to save data
+    function saveData() {
+      const csvData = jsPsych.data.get().csv();
+      const blob = new Blob([csvData], { type: 'text/csv' });
+      const link = document.createElement('a');
+      link.href = window.URL.createObjectURL(blob);
+      link.download = 'participant_data.csv';
+      link.click();
+    }
+
+
+    // Define the timeline
+    let timeline = [];
+
+    // Define demographics form with additional proficiency questions
+    const demographics_form = {
+    type: jsPsychSurveyHtmlForm,
+    preamble: '<h3>Welcome to our Language Experiment!</h3><p>Please provide the following information:</p>',
+    html: `
+
+        <label for="contact">Contact Number:</label><br>
+        <input type="text" id="contact" name="contact" required><br><br>
+
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age" required><br><br>
+        
+        <label for="gender">Gender:</label><br>
+        <select id="gender" name="gender" required>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="non-binary">Non-binary</option>
+        <option value="prefer-not-to-say">Prefer not to say</option>
+        </select><br><br>
+        
+        <label for="language">Native Language:</label><br>
+        <input type="text" id="language" name="language" required><br><br>
+        
+        <!-- Hindi Proficiency Questions -->
+        <p><strong>Hindi Proficiency:</strong></p>
+        <label for="reading_hindi">How comfortable are you reading Hindi? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="reading_hindi" name="reading_hindi" min="1" max="5" required><br><br>
+
+        <label for="writing_hindi">How comfortable are you writing in Hindi? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="writing_hindi" name="writing_hindi" min="1" max="5" required><br><br>
+
+        <label for="speaking_hindi">How comfortable are you speaking Hindi? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="speaking_hindi" name="speaking_hindi" min="1" max="5" required><br><br>
+
+        <label for="understanding_hindi">How comfortable are you understanding spoken Hindi? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="understanding_hindi" name="understanding_hindi" min="1" max="5" required><br><br>
+
+        <!-- English Proficiency Questions -->
+        <p><strong>English Proficiency:</strong></p>
+        <label for="reading_english">How comfortable are you reading English? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="reading_english" name="reading_english" min="1" max="5" required><br><br>
+
+        <label for="writing_english">How comfortable are you writing in English? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="writing_english" name="writing_english" min="1" max="5" required><br><br>
+
+        <label for="speaking_english">How comfortable are you speaking English? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="speaking_english" name="speaking_english" min="1" max="5" required><br><br>
+
+        <label for="understanding_english">How comfortable are you understanding spoken English? (1 - Not at all, 5 - Very comfortable)</label><br>
+        <input type="number" id="understanding_english" name="understanding_english" min="1" max="5" required><br><br>
+    `,
+    on_finish: function(data) {
+        jsPsych.data.addProperties({
+        contact: data.response.contact,
+        age: data.response.age,
+        gender: data.response.gender,
+        native_language: data.response.language,
+        reading_hindi: data.response.reading_hindi,
+        writing_hindi: data.response.writing_hindi,
+        speaking_hindi: data.response.speaking_hindi,
+        understanding_hindi: data.response.understanding_hindi,
+        reading_english: data.response.reading_english,
+        writing_english: data.response.writing_english,
+        speaking_english: data.response.speaking_english,
+        understanding_english: data.response.understanding_english
+        });
+    }
+    };  
+    timeline.push(demographics_form);
+
+
+    // Instructions
+    const instructions = {
+      type: jsPsychInstructions,
+      pages: [
+      'Welcome to the Experiment.',
+      'There are 5 blocks of varying number of trials in total.',
+      'In each trial, you will need to decide if the given stimuli are real words or non-words.',
+      'To respond: Press "f" for real (valid) words and "j" for non-words.',
+      'Each word or non-word will only appear briefly, and you must respond before the next trial begins.',
+      'If you miss a response, do not worry—focus on the upcoming trial.',
+      'The experiment aims to analyse how quickly and with what accuracy you respond to the stimuli.',
+      'Once the experiment ends, your responses will be downloaded as a csv File.',
+      'When you are ready, press any key to start the experiment.'
+      ],
+      show_clickable_nav: true
+    };
+    timeline.push(instructions);
+
+    // Wait for 2 seconds
+    const wait_two_seconds = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: '<p>Get ready...</p>',
+      choices: "NO_KEYS", // Updated to string "NO_KEYS"
+      trial_duration: 1000 // 1000 ms = 2 seconds
+    };
+    timeline.push(wait_two_seconds);
+
+
+
+      // Define instructions for each block
+        const blockInstructions = {
+        'A': {
+            pages: [
+            `<h2>Block 1</h2><p>In this block, you will see a series of valid and invalid english words. Respond by pressing "f" for valid words and "j" for invalid words.</p>`,
+            `<p>Remember: "f" = valid, "j" = invalid. Try to respond as quickly as possible.</p>`,
+            `<p>Press any key when you're ready to begin.</p>`
+            ]
+        },
+        'B': {
+            pages: [
+            `<h2>Block 2</h2><p>In this block, you will see a series of valid and invalid hindi words. Respond as before: "f" for valid and "j" for invalid.</p>`,
+            `<p>Press any key when you're ready to begin.</p>`
+            ]
+        },
+
+        'C': {
+            pages: [
+            `<h2>Block 3</h2><p>This block contains valid and invalid words in English and Hindi mixed together. Respond as before: "f" for valid and "j" for invalid .</p>`,
+            `<p>Press any key when you're ready to begin.</p>`
+            ]
+        },
+        
+        'D': {
+            pages: [
+            `<h2>Block 4</h2><p>This block contains valid and invalid words  in transliterated Hindi. Respond as before: "f" for valid and "j" for invalid.</p>`,
+            `<p>The Hindi words are no longer in their native script, but have been transliterated to Roman script</p>`,
+            `<p>The tranliterated hindi word is valid if it sound like a real word in Hindi, else it is invalid</p>`,
+            `<p>For example, the word घर can appear as ghar, and this is to be considered as valid.</p>`,
+            `<p> However, the word hisarat sounds like no real word  in hindi , and is hence invalid.</p>`,
+            `<p>Press any key when you're ready to begin.</p>`
+            ]
+        },
+
+        'E': {
+            pages: [
+            `<h2>Block 5</h2><p>This block contains valid and invalid words in English and Hindi mixed together. Respond as before: "f" for valid and "j" for invalid.</p>`,
+            `<p>The Hindi words are no longer in their native script, but have been transliterated to Roman script</p>`,
+            `<p>The tranliterated hindi word is valid if it sound like a real word in Hindi, else it is invalid</p>`,
+            `<p>For example, the word घर can appear as ghar, and this is to be considered as valid.</p>`,
+            `<p> However, the word ashkar sounds like no real word either in hindi or english, and is hence invalid.</p>`,
+            `<p> For the english words, the task is same as earlier. If it is a real english word, it's valid, else it is invalid.</p>`,
+            `<p>Press any key when you're ready to begin.</p>`
+            ]
+        },
+       
+        };
+
+    Papa.parse("FINAL_FINAL.csv", {
+    download: true,
+    header: true,
+    complete: function(results) {
+        const wordsData = results.data;
+        startExperiment(wordsData);
+    }
+    });
+
+    function startExperiment(wordsData) {
+    // Organize words by block
+    const blocks = {};
+    wordsData.forEach(row => {
+        if (!blocks[row.BLOCK]) {
+        blocks[row.BLOCK] = [];
+        }
+        blocks[row.BLOCK].push(row); // Group words by their BLOCK value
+    });
+
+  // Iterate over each block
+  Object.keys(blocks).forEach(block => {
+    // Check if instructions for the block exist
+    if (blockInstructions[block]) {
+      const block_instruction = {
+        type: jsPsychInstructions,
+        pages: blockInstructions[block].pages,
+        show_clickable_nav: true
+      };
+      timeline.push(block_instruction);
+    } else {
+      console.warn(`No instructions found for block: ${block}`);
+    }
+
+    // Shuffle words within the block
+    const shuffledWords = jsPsych.randomization.shuffle(blocks[block]);
+
+    // Fixation cross trial
+    const fixation_cross = {
+        type: jsPsychHtmlKeyboardResponse,
+        stimulus: '<p>+</p>',
+        choices: "NO_KEYS",
+        trial_duration: 900  // 1 second fixation cross
+      };
+    timeline.push(fixation_cross);
+
+    shuffledWords.forEach((word, index) => {
+      let trial_type = 'switch';
+      if (index > 0 && word.TYPE === shuffledWords[index - 1].TYPE) {
+        trial_type = 'non-switch';
+      }
+
+      // Word display trial with fixed 1.5 second stimulus duration
+      const word_trial = {
+        type: jsPsychHtmlKeyboardResponse,
+        stimulus: `<p>${word.WORD}</p>`,
+        choices: ['f', 'j'],
+        trial_duration: 1350,    // 1.5 seconds stimulus duration
+        response_ends_trial: false, // Do not end the trial immediately after response
+        data: {
+          word: word.WORD,
+          validity: word.VALIDITY,
+          type: word.TYPE,
+          block: word.BLOCK,
+          the_trial_type: trial_type
+        },
+
+
+        on_finish: function(data) {
+        console.log('Word:', data.word);             // Logs the word presented
+        console.log('Validity:', data.validity);     // Logs validity ('valid' or 'invalid')
+        console.log('Response:', data.response);     // Logs the key response ('f' or 'j')
+        console.log('RT:', data.rt);                 // Logs reaction time
+        data.correct = (data.validity === 'word' && data.response === 'f') ||
+                        (data.validity === 'non_word' && data.response === 'j');
+        console.log('Correct:', data.correct);       // Logs whether the response was correct
+        }
+
+
+
+
+      };
+      timeline.push(word_trial);
+
+      const fixation_cross = {
+        type: jsPsychHtmlKeyboardResponse,
+        stimulus: '<p>+</p>',
+        choices: "NO_KEYS",
+        trial_duration: 900  // 1 second fixation cross
+      };
+      timeline.push(fixation_cross);
+
+
+    });
+
+    // Wait for 2 seconds
+    const wait_ten_seconds = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: '<p>Take a  break! </p>',
+    choices: "NO_KEYS", // Updated to string "NO_KEYS"
+    trial_duration: 10000 // 10000 ms = 10 seconds
+    };
+    timeline.push(wait_ten_seconds);
+
+    // Add a break after each block
+    const block_break = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: '<p>Once you are ready, press any key to proceed to the next block.</p>',
+      choices: "ALL_KEYS"
+    };
+    timeline.push(block_break);
+
+  });
+
+  // End of experiment message
+  const thank_you = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: '<p>Thank you for completing the experiment. Press any key to exit.</p>',
+    choices: "ALL_KEYS"
+  };
+  timeline.push(thank_you);
+
+  // Run the experiment
+  jsPsych.run(timeline);
+}
+  </script>
+</body>
+</html>
