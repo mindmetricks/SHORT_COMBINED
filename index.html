@@ -242,9 +242,6 @@
         blocks[row.BLOCK].push(row); // Group words by their BLOCK value
     });
 
-  let usedWords = new Set();
-
-
   // Iterate over each block
   Object.keys(blocks).forEach(block => {
     // Check if instructions for the block exist
@@ -260,15 +257,7 @@
     }
 
     // Shuffle words within the block
-    // Filter out words that have already been used across blocks
-    const filteredWords = blocks[block].filter(word => !usedWords.has(word.WORD));
-    
-    // Shuffle the filtered words
-    const shuffledWords = jsPsych.randomization.shuffle(filteredWords);
-    
-    // Add the words from this block to the set of used words
-    shuffledWords.forEach(word => usedWords.add(word.WORD));
-
+    const shuffledWords = jsPsych.randomization.shuffle(blocks[block]);
 
     // Fixation cross trial
     const fixation_cross = {
