@@ -253,11 +253,11 @@ Papa.parse("FINAL_FINAL.csv", {
         }
 
         const blockWords = {
-            'A': [...selectWords('l', 50), ...selectWords('m', 50)],
-            'B': [...selectWords('n', 100), ...selectWords('o', 50)],
-            'C': [...selectWords('o', 50), ...selectWords('p', 50)],
-            'D': [...selectWords('n', 50), ...selectWords('o', 100)],
-            'E': [...selectWords('p', 50), ...selectWords('l', 50)]
+            'A': [...selectWords('l', 5), ...selectWords('m', 5)],
+            'B': [...selectWords('n', 10), ...selectWords('o', 5)],
+            'C': [...selectWords('o', 5), ...selectWords('p', 5)],
+            'D': [...selectWords('n', 5), ...selectWords('o', 10)],
+            'E': [...selectWords('p', 5), ...selectWords('l', 5)]
         };
 
         Object.keys(blockWords).forEach(block => {
