@@ -225,13 +225,13 @@
 
 
 
-Papa.parse("FINAL_FINAL.csv", {
-        download: true,
-        header: true,
-        complete: function(results) {
-            startExperiment(results.data);
-        }
-    });
+    Papa.parse("FINAL_FINAL.csv", {
+            download: true,
+            header: true,
+            complete: function(results) {
+                startExperiment(results.data);
+            }
+        });
 
     function startExperiment(wordsData) {
         const wordCategories = {};
@@ -254,9 +254,9 @@ Papa.parse("FINAL_FINAL.csv", {
 
         const blockWords = {
             'A': [...selectWords('l', 5), ...selectWords('m', 5)],
-            'B': [...selectWords('n', 10), ...selectWords('o', 5)],
+            'B': [...selectWords('n', 5), ...selectWords('o', 5)],
             'C': [...selectWords('o', 5), ...selectWords('p', 5)],
-            'D': [...selectWords('n', 5), ...selectWords('o', 10)],
+            'D': [...selectWords('n', 5), ...selectWords('o', 5)],
             'E': [...selectWords('p', 5), ...selectWords('l', 5)]
         };
 
@@ -299,11 +299,17 @@ Papa.parse("FINAL_FINAL.csv", {
                         block: word.BLOCK,
                         the_trial_type: trial_type
                     },
-                    on_finish: function (data) {
-                        console.log('Word:', data.word);
-                        console.log('Correct:', (data.validity === 'word' && data.response === 'f') ||
-                            (data.validity === 'non_word' && data.response === 'j'));
-                    }
+
+                  
+                    on_finish: function(data) {
+                      console.log('Word:', data.word);             // Logs the word presented
+                      console.log('Validity:', data.validity);     // Logs validity ('valid' or 'invalid')
+                      console.log('Response:', data.response);     // Logs the key response ('f' or 'j')
+                      console.log('RT:', data.rt);                 // Logs reaction time
+                      data.correct = (data.validity === 'word' && data.response === 'f') ||
+                                      (data.validity === 'non_word' && data.response === 'j');
+                      console.log('Correct:', data.correct);       // Logs whether the response was correct
+                      }
                 });
 
                 timeline.push({
