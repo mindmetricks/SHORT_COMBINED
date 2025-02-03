@@ -1,561 +1,561 @@
 ﻿WORD,VALIDITY,TYPE, BLOCK
-today,word,english,l
-seems,word,english,l
-means,word,english,l
-lower,word,english,l
-store,word,english,l
-excellent,word,english,l
-likely,word,english,l
-together,word,english,l
-order,word,english,l
-while,word,english,l
-study,word,english,l
-happen,word,english,l
-difficult,word,english,l
-required,word,english,l
-should,word,english,l
-allowed,word,english,l
-having,word,english,l
-various,word,english,l
-agree,word,english,l
-service,word,english,l
-table,word,english,l
-cannot,word,english,l
-better,word,english,l
-appears,word,english,l
-members,word,english,l
-respond,word,english,l
-client,word,english,l
-sometimes,word,english,l
-quite,word,english,l
-artifact,word,english,l
-analysis,word,english,l
-working,word,english,l
-makes,word,english,l
-trouble,word,english,l
-doubt,word,english,l
-leave,word,english,l
-shows,word,english,l
-political,word,english,l
-support,word,english,l
-early,word,english,l
-frint,non_word,english,l
-cantract,non_word,english,l
-maneger,non_word,english,l
-contrel,non_word,english,l
-cowntry,non_word,english,l
-presune,non_word,english,l
-laern,non_word,english,l
-wice,non_word,english,l
-hindig,non_word,english,l
-istelf,non_word,english,l
-tuday,non_word,english,l
-creat,non_word,english,l
-chlone,non_word,english,l
-thiking,non_word,english,l
-studnet,non_word,english,l
-cald,non_word,english,l
-articels,non_word,english,l
-slory,non_word,english,l
-argee,non_word,english,l
-reweise,non_word,english,l
-parrut,non_word,english,l
-sland,non_word,english,l
-prorame,non_word,english,l
-allawed,non_word,english,l
-nohice,non_word,english,l
-minusts,non_word,english,l
-pover,non_word,english,l
-feredal,non_word,english,l
-anydoby,non_word,english,l
-writen,non_word,english,l
-weater,non_word,english,l
-atempt,non_word,english,l
-quikly,non_word,english,l
-teath,non_word,english,l
-annyway,non_word,english,l
-fount,non_word,english,l
-resources,non_word,english,l
-chlidren,non_word,english,l
-ordar,non_word,english,l
-requierd,non_word,english,l
-अक्सर ,word,hindi,m
-अगस्त ,word,hindi,m
-अतिक्रमण ,word,hindi,m
-अथवा ,word,hindi,m
-अदालत ,word,hindi,m
-अध्यक्ष ,word,hindi,m
-अनंत ,word,hindi,m
-अन्य ,word,hindi,m
-अपहरण ,word,hindi,m
-अफसर ,word,hindi,m
-अवश्य ,word,hindi,m
-अवसर ,word,hindi,m
-अव्वल ,word,hindi,m
-अहम ,word,hindi,m
-आकलन ,word,hindi,m
-आदत ,word,hindi,m
-आमरण ,word,hindi,m
-आवश्यक ,word,hindi,m
-इसपर ,word,hindi,m
-उक्त ,word,hindi,m
-उच्च ,word,hindi,m
-उठकर ,word,hindi,m
-उतर ,word,hindi,m
-उतरकर ,word,hindi,m
-उत्पन्न ,word,hindi,m
-उपज ,word,hindi,m
-उपलक्ष्य ,word,hindi,m
-उपलब्ध ,word,hindi,m
-उलझ ,word,hindi,m
-कमर ,word,hindi,m
-कलम ,word,hindi,m
-कलह ,word,hindi,m
-कार्यालय ,word,hindi,m
-खत्म ,word,hindi,m
-गरीबी ,word,hindi,m
-गहन ,word,hindi,m
-गुलशन ,word,hindi,m
-गौरतलब ,word,hindi,m
-चयन ,word,hindi,m
-चरण ,word,hindi,m
-अंदेरे,non_word,hindi,m
-अक्क्षण,non_word,hindi,m
-अक्शर,non_word,hindi,m
-अक्‍सार,non_word,hindi,m
-अखवर,non_word,hindi,m
-अच्ल,non_word,hindi,m
-अटवर,non_word,hindi,m
-अतिकरमण,non_word,hindi,m
-अदलात,non_word,hindi,m
-अध्यक्षर,non_word,hindi,m
-अनशनर,non_word,hindi,m
-अनेख,non_word,hindi,m
-अन्कय,non_word,hindi,m
-अन्क्षण,non_word,hindi,m
-अन्टय,non_word,hindi,m
-अन्द,non_word,hindi,m
-अपगत,non_word,hindi,m
-अपव,non_word,hindi,m
-अमरल,non_word,hindi,m
-अमिल,non_word,hindi,m
-अरम्भ,non_word,hindi,m
-अल्क्षण,non_word,hindi,m
-अल्य,non_word,hindi,m
-अवगतन,non_word,hindi,m
-अवाव,non_word,hindi,m
-अवैल,non_word,hindi,m
-अशल,non_word,hindi,m
-अस्षर,non_word,hindi,m
-आंकेडा,non_word,hindi,m
-आघमन,non_word,hindi,m
-आडर,non_word,hindi,m
-आतकवाद,non_word,hindi,m
-आत्मल,non_word,hindi,m
-आदमि,non_word,hindi,m
-आदमे,non_word,hindi,m
-आदस,non_word,hindi,m
-आपणी,non_word,hindi,m
-आपसव,non_word,hindi,m
-आरकण,non_word,hindi,m
-आरकल,non_word,hindi,m
-reatily,non_word,english,n
-evedence,non_word,english,n
-exatly,non_word,english,n
-parrts,non_word,english,n
-atention,non_word,english,n
-wotch,non_word,english,n
-thouh,non_word,english,n
-monthh,non_word,english,n
-poast,non_word,english,n
-macine,non_word,english,n
-komment,non_word,english,n
-driwer,non_word,english,n
-saing,non_word,english,n
-opinyons,non_word,english,n
-miself,non_word,english,n
-respend,non_word,english,n
-feild,non_word,english,n
-leve,non_word,english,n
-rhows,non_word,english,n
-exellant,non_word,english,n
-efect,non_word,english,n
-forse,non_word,english,n
-anasylis,non_word,english,n
-litsts,non_word,english,n
-togehter,non_word,english,n
-secutiry,non_word,english,n
-aparment,non_word,english,n
-learly,non_word,english,n
-bluud,non_word,english,n
-screan,non_word,english,n
-makis,non_word,english,n
-referance,non_word,english,n
-histury,non_word,english,n
-aucton,non_word,english,n
-setwene,non_word,english,n
-perfet,non_word,english,n
-trate,non_word,english,n
-takling,non_word,english,n
-cemidal,non_word,english,n
-commuty,non_word,english,n
-driver,word,english,n
-truth,word,english,n
-talking,word,english,n
-received,word,english,n
-needed,word,english,n
-evidence,word,english,n
-medical,word,english,n
-along,word,english,n
-house,word,english,n
-trying,word,english,n
-field,word,english,n
-address,word,english,n
-average,word,english,n
-following,word,english,n
-weeks,word,english,n
-water,word,english,n
-attention,word,english,n
-community,word,english,n
-country,word,english,n
-names,word,english,n
-become,word,english,n
-receive,word,english,n
-write,word,english,n
-speak,word,english,n
-quickly,word,english,n
-living,word,english,n
-locus,word,english,n
-consider,word,english,n
-children,word,english,n
-death,word,english,n
-material,word,english,n
-perhaps,word,english,n
-power,word,english,n
-music,word,english,n
-security,word,english,n
-response,word,english,n
-pages,word,english,n
-press,word,english,n
-myself,word,english,n
-physical,word,english,n
-भड़कन,non_word,hindi,n
-थप्पल,non_word,hindi,n
-तलबल,non_word,hindi,n
-प्रतिधिन,non_word,hindi,n
-पदकम,non_word,hindi,n
-दहकत,non_word,hindi,n
-तत्य,non_word,hindi,n
-दस्तकन,non_word,hindi,n
-बर्बाधी,non_word,hindi,n
-भाँचारा,non_word,hindi,n
-पलकल,non_word,hindi,n
-नगड़,non_word,hindi,n
-फ्वल,non_word,hindi,n
-ठप्पर,non_word,hindi,n
-मंजुर,non_word,hindi,n
-पहलै,non_word,hindi,n
-झख्म,non_word,hindi,n
-बजल,non_word,hindi,n
-भतीक,non_word,hindi,n
-नायरी,non_word,hindi,n
-ढक्कल,non_word,hindi,n
-झलकन,non_word,hindi,n
-नफदत,non_word,hindi,n
-प्रमुश,non_word,hindi,n
-प्ठन,non_word,hindi,n
-भगतम,non_word,hindi,n
-नहन,non_word,hindi,n
-महागनर,non_word,hindi,n
-मधुपब,non_word,hindi,n
-दण्ट,non_word,hindi,n
-दस्थक,non_word,hindi,n
-निबंठ,non_word,hindi,n
-नसीत,non_word,hindi,n
-नमकल,non_word,hindi,n
-दन्ष,non_word,hindi,n
-ज्वल,non_word,hindi,n
-परिजिन,non_word,hindi,n
-धेज,non_word,hindi,n
-नतमस्क,non_word,hindi,n
-बनक,non_word,hindi,n
-नयन ,word,hindi,n
-खोकर ,word,hindi,n
-अल्प ,word,hindi,n
-रक्षक ,word,hindi,n
-अवधेश ,word,hindi,n
-महीना ,word,hindi,n
-सहन ,word,hindi,n
-दण्ड ,word,hindi,n
-गवाही ,word,hindi,n
-शरारती ,word,hindi,n
-ऊंचाई ,word,hindi,n
-वचनबद्ध ,word,hindi,n
-साजिश ,word,hindi,n
-महक ,word,hindi,n
-पठन ,word,hindi,n
-बहस ,word,hindi,n
-दशक ,word,hindi,n
-आगमन ,word,hindi,n
-भक्तजन ,word,hindi,n
-असत्य ,word,hindi,n
-आयकर ,word,hindi,n
-एकत्र ,word,hindi,n
-आवारा ,word,hindi,n
-आर्थिक ,word,hindi,n
-सहायता ,word,hindi,n
-अवगत ,word,hindi,n
-वयस्क ,word,hindi,n
-हड़कम्प ,word,hindi,n
-अपशब्द ,word,hindi,n
-समक्ष ,word,hindi,n
-असभ्य ,word,hindi,n
-सहमत ,word,hindi,n
-कसर ,word,hindi,n
-सभ्य ,word,hindi,n
-मस्तक ,word,hindi,n
-सहज ,word,hindi,n
-किनारे ,word,hindi,n
-प्रहार ,word,hindi,n
-उसपर ,word,hindi,n
-छप्पन ,word,hindi,n
-prashim,non_word,hinglish,o
-anuhab,non_word,hinglish,o
-vakta,non_word,hinglish,o
-aapasav,non_word,hinglish,o
-ujjala,non_word,hinglish,o
-saadham,non_word,hinglish,o
-kamad,non_word,hinglish,o
-ugar,non_word,hinglish,o
-gamri,non_word,hinglish,o
-vimeet,non_word,hinglish,o
-jajah,non_word,hinglish,o
-khatvir,non_word,hinglish,o
-saht,non_word,hinglish,o
-maskad,non_word,hinglish,o
-sajag,non_word,hinglish,o
-salaf,non_word,hinglish,o
-ummat,non_word,hinglish,o
-kharbar,non_word,hinglish,o
-kasan,non_word,hinglish,o
-iradh,non_word,hinglish,o
-sanay,non_word,hinglish,o
-tanrik,non_word,hinglish,o
-aranth,non_word,hinglish,o
-gagah,non_word,hinglish,o
-vitichra,non_word,hinglish,o
-kapak,non_word,hinglish,o
-yavaska,non_word,hinglish,o
-askhay,non_word,hinglish,o
-anam,non_word,hinglish,o
-kustap,non_word,hinglish,o
-ukathar,non_word,hinglish,o
-saskham,non_word,hinglish,o
-jalnat,non_word,hinglish,o
-dhyam,non_word,hinglish,o
-majtoobi,non_word,hinglish,o
-goyak,non_word,hinglish,o
-hafan,non_word,hinglish,o
-sarakh,non_word,hinglish,o
-pyahi,non_word,hinglish,o
-hatkan,non_word,hinglish,o
-chadar,word,hinglish,o
-naram,word,hinglish,o
-pathak,word,hinglish,o
-pavan  ,word,hinglish,o
-kambal,word,hinglish,o
-vivaah,word,hinglish,o
-safal  ,word,hinglish,o
-shahar,word,hinglish,o
-adaalat,word,hinglish,o
-sharab,word,hinglish,o
-doosra,word,hinglish,o
- dhanya,word,hinglish,o
-mahila,word,hinglish,o
-virodhi,word,hinglish,o
-bhavan  ,word,hinglish,o
-asar,word,hinglish,o
-yagya  ,word,hinglish,o
-uday,word,hinglish,o
-shakkar,word,hinglish,o
-andar,word,hinglish,o
-sambhav,word,hinglish,o
-jhalak  ,word,hinglish,o
-thappar,word,hinglish,o
-mannat,word,hinglish,o
-alag,word,hinglish,o
-pakad,word,hinglish,o
-asatya,word,hinglish,o
- uplabdh,word,hinglish,o
-asabhya,word,hinglish,o
-akshay,word,hinglish,o
-aarambh,word,hinglish,o
-bhakt,word,hinglish,o
-vichaar,word,hinglish,o
-mahaul,word,hinglish,o
-prabhat,word,hinglish,o
-pradesh,word,hinglish,o
-dawaai,word,hinglish,o
-safar  ,word,hinglish,o
-saksham  ,word,hinglish,o
- anya,word,hinglish,o
-except,word,english,p
-student,word,english,p
-knowledge,word,english,p
-contains,word,english,p
-point,word,english,p
-auction,word,english,p
-strong,word,english,p
-course,word,english,p
-state,word,english,p
-create,word,english,p
-command,word,english,p
-instead,word,english,p
-opinions,word,english,p
-always,word,english,p
-guess,word,english,p
-obviously,word,english,p
-items,word,english,p
-available,word,english,p
-shipping,word,english,p
-called,word,english,p
-certain,word,english,p
-contract,word,english,p
-trade,word,english,p
-second,word,english,p
-report,word,english,p
-white,word,english,p
-under,word,english,p
-parts,word,english,p
-using,word,english,p
-includes,word,english,p
-central,word,english,p
-sources,word,english,p
-features,word,english,p
-reality,word,english,p
-added,word,english,p
-details,word,english,p
-whole,word,english,p
-reference,word,english,p
-change,word,english,p
-education,word,english,p
-skillis,non_word,english,p
-digetal,non_word,english,p
-wheter,non_word,english,p
-brimg,non_word,english,p
-reciese,non_word,english,p
-litimed,non_word,english,p
-interfase,non_word,english,p
-celtainly,non_word,english,p
-beccome,non_word,english,p
-lelal,non_word,english,p
-laterr,non_word,english,p
-purhaps,non_word,english,p
-obsiouly,non_word,english,p
-genurally,non_word,english,p
-shigging,non_word,english,p
-troubal,non_word,english,p
-availble,non_word,english,p
-blakc,non_word,english,p
-slong,non_word,english,p
-geves,non_word,english,p
-adress,non_word,english,p
-pagis,non_word,english,p
-starded,non_word,english,p
-coming,non_word,english,p
-tebbar,non_word,english,p
-recieved,non_word,english,p
-undersand,non_word,english,p
-smille,non_word,english,p
-exampel,non_word,english,p
-guass,non_word,english,p
-luks,non_word,english,p
-nown,non_word,english,p
-sens,non_word,english,p
-sorces,non_word,english,p
-diferent,non_word,english,p
-wile,non_word,english,p
-outcide,non_word,english,p
-parudy,non_word,english,p
-naturul,non_word,english,p
-vursion,non_word,english,p
-panka,non_word,hinglish,p
-hivaah,non_word,hinglish,p
-gatat,non_word,hinglish,p
-vashtrik,non_word,hinglish,p
-pratagi,non_word,hinglish,p
-maskat,non_word,hinglish,p
-jaavnar,non_word,hinglish,p
-anraya,non_word,hinglish,p
-katsha,non_word,hinglish,p
-hisarat,non_word,hinglish,p
-madhrak,non_word,hinglish,p
-katrika,non_word,hinglish,p
-ucchar,non_word,hinglish,p
-hanav,non_word,hinglish,p
-drishdhi,non_word,hinglish,p
-yajya,non_word,hinglish,p
-saajash,non_word,hinglish,p
-raskha,non_word,hinglish,p
-gamar,non_word,hinglish,p
-sajjam,non_word,hinglish,p
-bapchan,non_word,hinglish,p
-nakam,non_word,hinglish,p
-labhka,non_word,hinglish,p
-panav,non_word,hinglish,p
-pratrikik,non_word,hinglish,p
-tamnay,non_word,hinglish,p
-hrudai,non_word,hinglish,p
-saadish,non_word,hinglish,p
-galak,non_word,hinglish,p
-khashar,non_word,hinglish,p
-praghash,non_word,hinglish,p
-lakshal,non_word,hinglish,p
-banthak,non_word,hinglish,p
-saklam,non_word,hinglish,p
-haatal,non_word,hinglish,p
-sanudaay,non_word,hinglish,p
-ashkar,non_word,hinglish,p
-shatki,non_word,hinglish,p
-vikapsh,non_word,hinglish,p
-dhyam,non_word,hinglish,p
-gulshan,word,hinglish,p
-akshar  ,word,hinglish,p
-sangeet,word,hinglish,p
-sambhav,word,hinglish,p
-bhajan  ,word,hinglish,p
-sargam,word,hinglish,p
- tanmay,word,hinglish,p
-kadam  ,word,hinglish,p
-shaadi,word,hinglish,p
- sakht,word,hinglish,p
-dhanya,word,hinglish,p
-chamak,word,hinglish,p
-pasand,word,hinglish,p
-sabak,word,hinglish,p
- bandhak,word,hinglish,p
- daftar,word,hinglish,p
-kahar,word,hinglish,p
- bacchan,word,hinglish,p
-nayak,word,hinglish,p
-galti,word,hinglish,p
-paani,word,hinglish,p
-ladka,word,hinglish,p
-sadak  ,word,hinglish,p
-jannat,word,hinglish,p
-idhar  ,word,hinglish,p
-pasand,word,hinglish,p
-videshi,word,hinglish,p
- bhakt,word,hinglish,p
-chakkar,word,hinglish,p
-parivaar,word,hinglish,p
-vikalp,word,hinglish,p
- bandhan,word,hinglish,p
-akhand,word,hinglish,p
-asafal,word,hinglish,p
-taras,word,hinglish,p
- madhya,word,hinglish,p
-adhoori  ,word,hinglish,p
-nigan,word,hinglish,p
-tanmay,word,hinglish,p
-dainik,word,hinglish,p
+tDday,wDrd,eCgAish,A
+seeBs,wDrd,eCgAish,A
+BeaCs,wDrd,eCgAish,A
+ADwer,wDrd,eCgAish,A
+stDre,wDrd,eCgAish,A
+exceAAeCt,wDrd,eCgAish,A
+AikeAy,wDrd,eCgAish,A
+tDgether,wDrd,eCgAish,A
+Drder,wDrd,eCgAish,A
+whiAe,wDrd,eCgAish,A
+study,wDrd,eCgAish,A
+haEEeC,wDrd,eCgAish,A
+difficuAt,wDrd,eCgAish,A
+required,wDrd,eCgAish,A
+shDuAd,wDrd,eCgAish,A
+aAADwed,wDrd,eCgAish,A
+haviCg,wDrd,eCgAish,A
+variDus,wDrd,eCgAish,A
+agree,wDrd,eCgAish,A
+service,wDrd,eCgAish,A
+tabAe,wDrd,eCgAish,A
+caCCDt,wDrd,eCgAish,A
+better,wDrd,eCgAish,A
+aEEears,wDrd,eCgAish,A
+BeBbers,wDrd,eCgAish,A
+resEDCd,wDrd,eCgAish,A
+cAieCt,wDrd,eCgAish,A
+sDBetiBes,wDrd,eCgAish,A
+quite,wDrd,eCgAish,A
+artifact,wDrd,eCgAish,A
+aCaAysis,wDrd,eCgAish,A
+wDrkiCg,wDrd,eCgAish,A
+Bakes,wDrd,eCgAish,A
+trDubAe,wDrd,eCgAish,A
+dDubt,wDrd,eCgAish,A
+Aeave,wDrd,eCgAish,A
+shDws,wDrd,eCgAish,A
+EDAiticaA,wDrd,eCgAish,A
+suEEDrt,wDrd,eCgAish,A
+earAy,wDrd,eCgAish,A
+friCt,CDC_wDrd,eCgAish,A
+caCtract,CDC_wDrd,eCgAish,A
+BaCeger,CDC_wDrd,eCgAish,A
+cDCtreA,CDC_wDrd,eCgAish,A
+cDwCtry,CDC_wDrd,eCgAish,A
+EresuCe,CDC_wDrd,eCgAish,A
+AaerC,CDC_wDrd,eCgAish,A
+wice,CDC_wDrd,eCgAish,A
+hiCdig,CDC_wDrd,eCgAish,A
+isteAf,CDC_wDrd,eCgAish,A
+tuday,CDC_wDrd,eCgAish,A
+creat,CDC_wDrd,eCgAish,A
+chADCe,CDC_wDrd,eCgAish,A
+thikiCg,CDC_wDrd,eCgAish,A
+studCet,CDC_wDrd,eCgAish,A
+caAd,CDC_wDrd,eCgAish,A
+articeAs,CDC_wDrd,eCgAish,A
+sADry,CDC_wDrd,eCgAish,A
+argee,CDC_wDrd,eCgAish,A
+reweise,CDC_wDrd,eCgAish,A
+Earrut,CDC_wDrd,eCgAish,A
+sAaCd,CDC_wDrd,eCgAish,A
+ErDraBe,CDC_wDrd,eCgAish,A
+aAAawed,CDC_wDrd,eCgAish,A
+CDhice,CDC_wDrd,eCgAish,A
+BiCusts,CDC_wDrd,eCgAish,A
+EDver,CDC_wDrd,eCgAish,A
+feredaA,CDC_wDrd,eCgAish,A
+aCydDby,CDC_wDrd,eCgAish,A
+writeC,CDC_wDrd,eCgAish,A
+weater,CDC_wDrd,eCgAish,A
+ateBEt,CDC_wDrd,eCgAish,A
+quikAy,CDC_wDrd,eCgAish,A
+teath,CDC_wDrd,eCgAish,A
+aCCyway,CDC_wDrd,eCgAish,A
+fDuCt,CDC_wDrd,eCgAish,A
+resDurces,CDC_wDrd,eCgAish,A
+chAidreC,CDC_wDrd,eCgAish,A
+Drdar,CDC_wDrd,eCgAish,A
+requierd,CDC_wDrd,eCgAish,A
+अक्सर ,wDrd,hiCdi,B
+अगस्त ,wDrd,hiCdi,B
+अतिक्रमण ,wDrd,hiCdi,B
+अथवा ,wDrd,hiCdi,B
+अदालत ,wDrd,hiCdi,B
+अध्यक्ष ,wDrd,hiCdi,B
+अनंत ,wDrd,hiCdi,B
+अन्य ,wDrd,hiCdi,B
+अपहरण ,wDrd,hiCdi,B
+अफसर ,wDrd,hiCdi,B
+अवश्य ,wDrd,hiCdi,B
+अवसर ,wDrd,hiCdi,B
+अव्वल ,wDrd,hiCdi,B
+अहम ,wDrd,hiCdi,B
+आकलन ,wDrd,hiCdi,B
+आदत ,wDrd,hiCdi,B
+आमरण ,wDrd,hiCdi,B
+आवश्यक ,wDrd,hiCdi,B
+इसपर ,wDrd,hiCdi,B
+उक्त ,wDrd,hiCdi,B
+उच्च ,wDrd,hiCdi,B
+उठकर ,wDrd,hiCdi,B
+उतर ,wDrd,hiCdi,B
+उतरकर ,wDrd,hiCdi,B
+उत्पन्न ,wDrd,hiCdi,B
+उपज ,wDrd,hiCdi,B
+उपलक्ष्य ,wDrd,hiCdi,B
+उपलब्ध ,wDrd,hiCdi,B
+उलझ ,wDrd,hiCdi,B
+कमर ,wDrd,hiCdi,B
+कलम ,wDrd,hiCdi,B
+कलह ,wDrd,hiCdi,B
+कार्यालय ,wDrd,hiCdi,B
+खत्म ,wDrd,hiCdi,B
+गरीबी ,wDrd,hiCdi,B
+गहन ,wDrd,hiCdi,B
+गुलशन ,wDrd,hiCdi,B
+गौरतलब ,wDrd,hiCdi,B
+चयन ,wDrd,hiCdi,B
+चरण ,wDrd,hiCdi,B
+अंदेरे,CDC_wDrd,hiCdi,B
+अक्क्षण,CDC_wDrd,hiCdi,B
+अक्शर,CDC_wDrd,hiCdi,B
+अक्‍सार,CDC_wDrd,hiCdi,B
+अखवर,CDC_wDrd,hiCdi,B
+अच्ल,CDC_wDrd,hiCdi,B
+अटवर,CDC_wDrd,hiCdi,B
+अतिकरमण,CDC_wDrd,hiCdi,B
+अदलात,CDC_wDrd,hiCdi,B
+अध्यक्षर,CDC_wDrd,hiCdi,B
+अनशनर,CDC_wDrd,hiCdi,B
+अनेख,CDC_wDrd,hiCdi,B
+अन्कय,CDC_wDrd,hiCdi,B
+अन्क्षण,CDC_wDrd,hiCdi,B
+अन्टय,CDC_wDrd,hiCdi,B
+अन्द,CDC_wDrd,hiCdi,B
+अपगत,CDC_wDrd,hiCdi,B
+अपव,CDC_wDrd,hiCdi,B
+अमरल,CDC_wDrd,hiCdi,B
+अमिल,CDC_wDrd,hiCdi,B
+अरम्भ,CDC_wDrd,hiCdi,B
+अल्क्षण,CDC_wDrd,hiCdi,B
+अल्य,CDC_wDrd,hiCdi,B
+अवगतन,CDC_wDrd,hiCdi,B
+अवाव,CDC_wDrd,hiCdi,B
+अवैल,CDC_wDrd,hiCdi,B
+अशल,CDC_wDrd,hiCdi,B
+अस्षर,CDC_wDrd,hiCdi,B
+आंकेडा,CDC_wDrd,hiCdi,B
+आघमन,CDC_wDrd,hiCdi,B
+आडर,CDC_wDrd,hiCdi,B
+आतकवाद,CDC_wDrd,hiCdi,B
+आत्मल,CDC_wDrd,hiCdi,B
+आदमि,CDC_wDrd,hiCdi,B
+आदमे,CDC_wDrd,hiCdi,B
+आदस,CDC_wDrd,hiCdi,B
+आपणी,CDC_wDrd,hiCdi,B
+आपसव,CDC_wDrd,hiCdi,B
+आरकण,CDC_wDrd,hiCdi,B
+आरकल,CDC_wDrd,hiCdi,B
+reatiAy,CDC_wDrd,eCgAish,C
+evedeCce,CDC_wDrd,eCgAish,C
+exatAy,CDC_wDrd,eCgAish,C
+Earrts,CDC_wDrd,eCgAish,C
+ateCtiDC,CDC_wDrd,eCgAish,C
+wDtch,CDC_wDrd,eCgAish,C
+thDuh,CDC_wDrd,eCgAish,C
+BDCthh,CDC_wDrd,eCgAish,C
+EDast,CDC_wDrd,eCgAish,C
+BaciCe,CDC_wDrd,eCgAish,C
+kDBBeCt,CDC_wDrd,eCgAish,C
+driwer,CDC_wDrd,eCgAish,C
+saiCg,CDC_wDrd,eCgAish,C
+DEiCyDCs,CDC_wDrd,eCgAish,C
+BiseAf,CDC_wDrd,eCgAish,C
+resEeCd,CDC_wDrd,eCgAish,C
+feiAd,CDC_wDrd,eCgAish,C
+Aeve,CDC_wDrd,eCgAish,C
+rhDws,CDC_wDrd,eCgAish,C
+exeAAaCt,CDC_wDrd,eCgAish,C
+efect,CDC_wDrd,eCgAish,C
+fDrse,CDC_wDrd,eCgAish,C
+aCasyAis,CDC_wDrd,eCgAish,C
+Aitsts,CDC_wDrd,eCgAish,C
+tDgehter,CDC_wDrd,eCgAish,C
+secutiry,CDC_wDrd,eCgAish,C
+aEarBeCt,CDC_wDrd,eCgAish,C
+AearAy,CDC_wDrd,eCgAish,C
+bAuud,CDC_wDrd,eCgAish,C
+screaC,CDC_wDrd,eCgAish,C
+Bakis,CDC_wDrd,eCgAish,C
+referaCce,CDC_wDrd,eCgAish,C
+histury,CDC_wDrd,eCgAish,C
+auctDC,CDC_wDrd,eCgAish,C
+setweCe,CDC_wDrd,eCgAish,C
+Eerfet,CDC_wDrd,eCgAish,C
+trate,CDC_wDrd,eCgAish,C
+takAiCg,CDC_wDrd,eCgAish,C
+ceBidaA,CDC_wDrd,eCgAish,C
+cDBButy,CDC_wDrd,eCgAish,C
+driver,wDrd,eCgAish,C
+truth,wDrd,eCgAish,C
+taAkiCg,wDrd,eCgAish,C
+received,wDrd,eCgAish,C
+Ceeded,wDrd,eCgAish,C
+evideCce,wDrd,eCgAish,C
+BedicaA,wDrd,eCgAish,C
+aADCg,wDrd,eCgAish,C
+hDuse,wDrd,eCgAish,C
+tryiCg,wDrd,eCgAish,C
+fieAd,wDrd,eCgAish,C
+address,wDrd,eCgAish,C
+average,wDrd,eCgAish,C
+fDAADwiCg,wDrd,eCgAish,C
+weeks,wDrd,eCgAish,C
+water,wDrd,eCgAish,C
+atteCtiDC,wDrd,eCgAish,C
+cDBBuCity,wDrd,eCgAish,C
+cDuCtry,wDrd,eCgAish,C
+CaBes,wDrd,eCgAish,C
+becDBe,wDrd,eCgAish,C
+receive,wDrd,eCgAish,C
+write,wDrd,eCgAish,C
+sEeak,wDrd,eCgAish,C
+quickAy,wDrd,eCgAish,C
+AiviCg,wDrd,eCgAish,C
+ADcus,wDrd,eCgAish,C
+cDCsider,wDrd,eCgAish,C
+chiAdreC,wDrd,eCgAish,C
+death,wDrd,eCgAish,C
+BateriaA,wDrd,eCgAish,C
+EerhaEs,wDrd,eCgAish,C
+EDwer,wDrd,eCgAish,C
+Busic,wDrd,eCgAish,C
+security,wDrd,eCgAish,C
+resEDCse,wDrd,eCgAish,C
+Eages,wDrd,eCgAish,C
+Eress,wDrd,eCgAish,C
+ByseAf,wDrd,eCgAish,C
+EhysicaA,wDrd,eCgAish,C
+भड़कन,CDC_wDrd,hiCdi,C
+थप्पल,CDC_wDrd,hiCdi,C
+तलबल,CDC_wDrd,hiCdi,C
+प्रतिधिन,CDC_wDrd,hiCdi,C
+पदकम,CDC_wDrd,hiCdi,C
+दहकत,CDC_wDrd,hiCdi,C
+तत्य,CDC_wDrd,hiCdi,C
+दस्तकन,CDC_wDrd,hiCdi,C
+बर्बाधी,CDC_wDrd,hiCdi,C
+भाँचारा,CDC_wDrd,hiCdi,C
+पलकल,CDC_wDrd,hiCdi,C
+नगड़,CDC_wDrd,hiCdi,C
+फ्वल,CDC_wDrd,hiCdi,C
+ठप्पर,CDC_wDrd,hiCdi,C
+मंजुर,CDC_wDrd,hiCdi,C
+पहलै,CDC_wDrd,hiCdi,C
+झख्म,CDC_wDrd,hiCdi,C
+बजल,CDC_wDrd,hiCdi,C
+भतीक,CDC_wDrd,hiCdi,C
+नायरी,CDC_wDrd,hiCdi,C
+ढक्कल,CDC_wDrd,hiCdi,C
+झलकन,CDC_wDrd,hiCdi,C
+नफदत,CDC_wDrd,hiCdi,C
+प्रमुश,CDC_wDrd,hiCdi,C
+प्ठन,CDC_wDrd,hiCdi,C
+भगतम,CDC_wDrd,hiCdi,C
+नहन,CDC_wDrd,hiCdi,C
+महागनर,CDC_wDrd,hiCdi,C
+मधुपब,CDC_wDrd,hiCdi,C
+दण्ट,CDC_wDrd,hiCdi,C
+दस्थक,CDC_wDrd,hiCdi,C
+निबंठ,CDC_wDrd,hiCdi,C
+नसीत,CDC_wDrd,hiCdi,C
+नमकल,CDC_wDrd,hiCdi,C
+दन्ष,CDC_wDrd,hiCdi,C
+ज्वल,CDC_wDrd,hiCdi,C
+परिजिन,CDC_wDrd,hiCdi,C
+धेज,CDC_wDrd,hiCdi,C
+नतमस्क,CDC_wDrd,hiCdi,C
+बनक,CDC_wDrd,hiCdi,C
+नयन ,wDrd,hiCdi,C
+खोकर ,wDrd,hiCdi,C
+अल्प ,wDrd,hiCdi,C
+रक्षक ,wDrd,hiCdi,C
+अवधेश ,wDrd,hiCdi,C
+महीना ,wDrd,hiCdi,C
+सहन ,wDrd,hiCdi,C
+दण्ड ,wDrd,hiCdi,C
+गवाही ,wDrd,hiCdi,C
+शरारती ,wDrd,hiCdi,C
+ऊंचाई ,wDrd,hiCdi,C
+वचनबद्ध ,wDrd,hiCdi,C
+साजिश ,wDrd,hiCdi,C
+महक ,wDrd,hiCdi,C
+पठन ,wDrd,hiCdi,C
+बहस ,wDrd,hiCdi,C
+दशक ,wDrd,hiCdi,C
+आगमन ,wDrd,hiCdi,C
+भक्तजन ,wDrd,hiCdi,C
+असत्य ,wDrd,hiCdi,C
+आयकर ,wDrd,hiCdi,C
+एकत्र ,wDrd,hiCdi,C
+आवारा ,wDrd,hiCdi,C
+आर्थिक ,wDrd,hiCdi,C
+सहायता ,wDrd,hiCdi,C
+अवगत ,wDrd,hiCdi,C
+वयस्क ,wDrd,hiCdi,C
+हड़कम्प ,wDrd,hiCdi,C
+अपशब्द ,wDrd,hiCdi,C
+समक्ष ,wDrd,hiCdi,C
+असभ्य ,wDrd,hiCdi,C
+सहमत ,wDrd,hiCdi,C
+कसर ,wDrd,hiCdi,C
+सभ्य ,wDrd,hiCdi,C
+मस्तक ,wDrd,hiCdi,C
+सहज ,wDrd,hiCdi,C
+किनारे ,wDrd,hiCdi,C
+प्रहार ,wDrd,hiCdi,C
+उसपर ,wDrd,hiCdi,C
+छप्पन ,wDrd,hiCdi,C
+ErashiB,CDC_wDrd,hiCgAish,D
+aCuhab,CDC_wDrd,hiCgAish,D
+vakta,CDC_wDrd,hiCgAish,D
+aaEasav,CDC_wDrd,hiCgAish,D
+ujjaAa,CDC_wDrd,hiCgAish,D
+saadhaB,CDC_wDrd,hiCgAish,D
+kaBad,CDC_wDrd,hiCgAish,D
+ugar,CDC_wDrd,hiCgAish,D
+gaBri,CDC_wDrd,hiCgAish,D
+viBeet,CDC_wDrd,hiCgAish,D
+jajah,CDC_wDrd,hiCgAish,D
+khatvir,CDC_wDrd,hiCgAish,D
+saht,CDC_wDrd,hiCgAish,D
+Baskad,CDC_wDrd,hiCgAish,D
+sajag,CDC_wDrd,hiCgAish,D
+saAaf,CDC_wDrd,hiCgAish,D
+uBBat,CDC_wDrd,hiCgAish,D
+kharbar,CDC_wDrd,hiCgAish,D
+kasaC,CDC_wDrd,hiCgAish,D
+iradh,CDC_wDrd,hiCgAish,D
+saCay,CDC_wDrd,hiCgAish,D
+taCrik,CDC_wDrd,hiCgAish,D
+araCth,CDC_wDrd,hiCgAish,D
+gagah,CDC_wDrd,hiCgAish,D
+vitichra,CDC_wDrd,hiCgAish,D
+kaEak,CDC_wDrd,hiCgAish,D
+yavaska,CDC_wDrd,hiCgAish,D
+askhay,CDC_wDrd,hiCgAish,D
+aCaB,CDC_wDrd,hiCgAish,D
+kustaE,CDC_wDrd,hiCgAish,D
+ukathar,CDC_wDrd,hiCgAish,D
+saskhaB,CDC_wDrd,hiCgAish,D
+jaACat,CDC_wDrd,hiCgAish,D
+dhyaB,CDC_wDrd,hiCgAish,D
+BajtDDbi,CDC_wDrd,hiCgAish,D
+gDyak,CDC_wDrd,hiCgAish,D
+hafaC,CDC_wDrd,hiCgAish,D
+sarakh,CDC_wDrd,hiCgAish,D
+Eyahi,CDC_wDrd,hiCgAish,D
+hatkaC,CDC_wDrd,hiCgAish,D
+chadar,wDrd,hiCgAish,D
+CaraB,wDrd,hiCgAish,D
+Eathak,wDrd,hiCgAish,D
+EavaC  ,wDrd,hiCgAish,D
+kaBbaA,wDrd,hiCgAish,D
+vivaah,wDrd,hiCgAish,D
+safaA  ,wDrd,hiCgAish,D
+shahar,wDrd,hiCgAish,D
+adaaAat,wDrd,hiCgAish,D
+sharab,wDrd,hiCgAish,D
+dDDsra,wDrd,hiCgAish,D
+ dhaCya,wDrd,hiCgAish,D
+BahiAa,wDrd,hiCgAish,D
+virDdhi,wDrd,hiCgAish,D
+bhavaC  ,wDrd,hiCgAish,D
+asar,wDrd,hiCgAish,D
+yagya  ,wDrd,hiCgAish,D
+uday,wDrd,hiCgAish,D
+shakkar,wDrd,hiCgAish,D
+aCdar,wDrd,hiCgAish,D
+saBbhav,wDrd,hiCgAish,D
+jhaAak  ,wDrd,hiCgAish,D
+thaEEar,wDrd,hiCgAish,D
+BaCCat,wDrd,hiCgAish,D
+aAag,wDrd,hiCgAish,D
+Eakad,wDrd,hiCgAish,D
+asatya,wDrd,hiCgAish,D
+ uEAabdh,wDrd,hiCgAish,D
+asabhya,wDrd,hiCgAish,D
+akshay,wDrd,hiCgAish,D
+aaraBbh,wDrd,hiCgAish,D
+bhakt,wDrd,hiCgAish,D
+vichaar,wDrd,hiCgAish,D
+BahauA,wDrd,hiCgAish,D
+Erabhat,wDrd,hiCgAish,D
+Eradesh,wDrd,hiCgAish,D
+dawaai,wDrd,hiCgAish,D
+safar  ,wDrd,hiCgAish,D
+sakshaB  ,wDrd,hiCgAish,D
+ aCya,wDrd,hiCgAish,D
+exceEt,wDrd,eCgAish,E
+studeCt,wDrd,eCgAish,E
+kCDwAedge,wDrd,eCgAish,E
+cDCtaiCs,wDrd,eCgAish,E
+EDiCt,wDrd,eCgAish,E
+auctiDC,wDrd,eCgAish,E
+strDCg,wDrd,eCgAish,E
+cDurse,wDrd,eCgAish,E
+state,wDrd,eCgAish,E
+create,wDrd,eCgAish,E
+cDBBaCd,wDrd,eCgAish,E
+iCstead,wDrd,eCgAish,E
+DEiCiDCs,wDrd,eCgAish,E
+aAways,wDrd,eCgAish,E
+guess,wDrd,eCgAish,E
+DbviDusAy,wDrd,eCgAish,E
+iteBs,wDrd,eCgAish,E
+avaiAabAe,wDrd,eCgAish,E
+shiEEiCg,wDrd,eCgAish,E
+caAAed,wDrd,eCgAish,E
+certaiC,wDrd,eCgAish,E
+cDCtract,wDrd,eCgAish,E
+trade,wDrd,eCgAish,E
+secDCd,wDrd,eCgAish,E
+reEDrt,wDrd,eCgAish,E
+white,wDrd,eCgAish,E
+uCder,wDrd,eCgAish,E
+Earts,wDrd,eCgAish,E
+usiCg,wDrd,eCgAish,E
+iCcAudes,wDrd,eCgAish,E
+ceCtraA,wDrd,eCgAish,E
+sDurces,wDrd,eCgAish,E
+features,wDrd,eCgAish,E
+reaAity,wDrd,eCgAish,E
+added,wDrd,eCgAish,E
+detaiAs,wDrd,eCgAish,E
+whDAe,wDrd,eCgAish,E
+refereCce,wDrd,eCgAish,E
+chaCge,wDrd,eCgAish,E
+educatiDC,wDrd,eCgAish,E
+skiAAis,CDC_wDrd,eCgAish,E
+digetaA,CDC_wDrd,eCgAish,E
+wheter,CDC_wDrd,eCgAish,E
+briBg,CDC_wDrd,eCgAish,E
+reciese,CDC_wDrd,eCgAish,E
+AitiBed,CDC_wDrd,eCgAish,E
+iCterfase,CDC_wDrd,eCgAish,E
+ceAtaiCAy,CDC_wDrd,eCgAish,E
+beccDBe,CDC_wDrd,eCgAish,E
+AeAaA,CDC_wDrd,eCgAish,E
+Aaterr,CDC_wDrd,eCgAish,E
+EurhaEs,CDC_wDrd,eCgAish,E
+DbsiDuAy,CDC_wDrd,eCgAish,E
+geCuraAAy,CDC_wDrd,eCgAish,E
+shiggiCg,CDC_wDrd,eCgAish,E
+trDubaA,CDC_wDrd,eCgAish,E
+avaiAbAe,CDC_wDrd,eCgAish,E
+bAakc,CDC_wDrd,eCgAish,E
+sADCg,CDC_wDrd,eCgAish,E
+geves,CDC_wDrd,eCgAish,E
+adress,CDC_wDrd,eCgAish,E
+Eagis,CDC_wDrd,eCgAish,E
+starded,CDC_wDrd,eCgAish,E
+cDBiCg,CDC_wDrd,eCgAish,E
+tebbar,CDC_wDrd,eCgAish,E
+recieved,CDC_wDrd,eCgAish,E
+uCdersaCd,CDC_wDrd,eCgAish,E
+sBiAAe,CDC_wDrd,eCgAish,E
+exaBEeA,CDC_wDrd,eCgAish,E
+guass,CDC_wDrd,eCgAish,E
+Auks,CDC_wDrd,eCgAish,E
+CDwC,CDC_wDrd,eCgAish,E
+seCs,CDC_wDrd,eCgAish,E
+sDrces,CDC_wDrd,eCgAish,E
+difereCt,CDC_wDrd,eCgAish,E
+wiAe,CDC_wDrd,eCgAish,E
+Dutcide,CDC_wDrd,eCgAish,E
+Earudy,CDC_wDrd,eCgAish,E
+CaturuA,CDC_wDrd,eCgAish,E
+vursiDC,CDC_wDrd,eCgAish,E
+EaCka,CDC_wDrd,hiCgAish,E
+hivaah,CDC_wDrd,hiCgAish,E
+gatat,CDC_wDrd,hiCgAish,E
+vashtrik,CDC_wDrd,hiCgAish,E
+Eratagi,CDC_wDrd,hiCgAish,E
+Baskat,CDC_wDrd,hiCgAish,E
+jaavCar,CDC_wDrd,hiCgAish,E
+aCraya,CDC_wDrd,hiCgAish,E
+katsha,CDC_wDrd,hiCgAish,E
+hisarat,CDC_wDrd,hiCgAish,E
+Badhrak,CDC_wDrd,hiCgAish,E
+katrika,CDC_wDrd,hiCgAish,E
+ucchar,CDC_wDrd,hiCgAish,E
+haCav,CDC_wDrd,hiCgAish,E
+drishdhi,CDC_wDrd,hiCgAish,E
+yajya,CDC_wDrd,hiCgAish,E
+saajash,CDC_wDrd,hiCgAish,E
+raskha,CDC_wDrd,hiCgAish,E
+gaBar,CDC_wDrd,hiCgAish,E
+sajjaB,CDC_wDrd,hiCgAish,E
+baEchaC,CDC_wDrd,hiCgAish,E
+CakaB,CDC_wDrd,hiCgAish,E
+Aabhka,CDC_wDrd,hiCgAish,E
+EaCav,CDC_wDrd,hiCgAish,E
+Eratrikik,CDC_wDrd,hiCgAish,E
+taBCay,CDC_wDrd,hiCgAish,E
+hrudai,CDC_wDrd,hiCgAish,E
+saadish,CDC_wDrd,hiCgAish,E
+gaAak,CDC_wDrd,hiCgAish,E
+khashar,CDC_wDrd,hiCgAish,E
+Eraghash,CDC_wDrd,hiCgAish,E
+AakshaA,CDC_wDrd,hiCgAish,E
+baCthak,CDC_wDrd,hiCgAish,E
+sakAaB,CDC_wDrd,hiCgAish,E
+haataA,CDC_wDrd,hiCgAish,E
+saCudaay,CDC_wDrd,hiCgAish,E
+ashkar,CDC_wDrd,hiCgAish,E
+shatki,CDC_wDrd,hiCgAish,E
+vikaEsh,CDC_wDrd,hiCgAish,E
+dhyaB,CDC_wDrd,hiCgAish,E
+guAshaC,wDrd,hiCgAish,E
+akshar  ,wDrd,hiCgAish,E
+saCgeet,wDrd,hiCgAish,E
+saBbhav,wDrd,hiCgAish,E
+bhajaC  ,wDrd,hiCgAish,E
+sargaB,wDrd,hiCgAish,E
+ taCBay,wDrd,hiCgAish,E
+kadaB  ,wDrd,hiCgAish,E
+shaadi,wDrd,hiCgAish,E
+ sakht,wDrd,hiCgAish,E
+dhaCya,wDrd,hiCgAish,E
+chaBak,wDrd,hiCgAish,E
+EasaCd,wDrd,hiCgAish,E
+sabak,wDrd,hiCgAish,E
+ baCdhak,wDrd,hiCgAish,E
+ daftar,wDrd,hiCgAish,E
+kahar,wDrd,hiCgAish,E
+ bacchaC,wDrd,hiCgAish,E
+Cayak,wDrd,hiCgAish,E
+gaAti,wDrd,hiCgAish,E
+EaaCi,wDrd,hiCgAish,E
+Aadka,wDrd,hiCgAish,E
+sadak  ,wDrd,hiCgAish,E
+jaCCat,wDrd,hiCgAish,E
+idhar  ,wDrd,hiCgAish,E
+EasaCd,wDrd,hiCgAish,E
+videshi,wDrd,hiCgAish,E
+ bhakt,wDrd,hiCgAish,E
+chakkar,wDrd,hiCgAish,E
+Earivaar,wDrd,hiCgAish,E
+vikaAE,wDrd,hiCgAish,E
+ baCdhaC,wDrd,hiCgAish,E
+akhaCd,wDrd,hiCgAish,E
+asafaA,wDrd,hiCgAish,E
+taras,wDrd,hiCgAish,E
+ Badhya,wDrd,hiCgAish,E
+adhDDri  ,wDrd,hiCgAish,E
+CigaC,wDrd,hiCgAish,E
+taCBay,wDrd,hiCgAish,E
+daiCik,wDrd,hiCgAish,E
